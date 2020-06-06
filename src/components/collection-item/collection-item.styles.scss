@@ -34,7 +34,7 @@
   }
 
   .collection-footer {
-    width: 100%;
+    width: 95%;
     height: 5%;
     display: flex;
     justify-content: space-between;
@@ -47,6 +47,7 @@
 
     .price {
       width: 10%;
+      margin-right: 0;
     }
   }
 }
