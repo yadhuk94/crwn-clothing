@@ -37,7 +37,7 @@ export const BackgroundImage = styled.div`
 `;
 
 export const CollectionFooterContainer = styled.div`
-  width: 100%;
+  width: 95%;
   height: 5%;
   display: flex;
   justify-content: space-between;
